@@ -1,0 +1,8 @@
+Brotli==1.1.0
+certifi==2025.1.31
+ffmpeg==1.4
+ffprobe==0.5
+mutagen==1.45.1
+pycryptodomex==3.21.0
+websockets==9.1
+yt-dlp==2025.3.31
