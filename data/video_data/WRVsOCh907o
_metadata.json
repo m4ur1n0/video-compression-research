@@ -1,0 +1,113 @@
+{
+    "streams": [
+        {
+            "index": 0,
+            "codec_name": "vp9",
+            "codec_long_name": "Google VP9",
+            "profile": "Profile 0",
+            "codec_type": "video",
+            "codec_tag_string": "vp09",
+            "codec_tag": "0x39307076",
+            "width": 1920,
+            "height": 1080,
+            "coded_width": 1920,
+            "coded_height": 1080,
+            "closed_captions": 0,
+            "has_b_frames": 0,
+            "pix_fmt": "yuv420p",
+            "level": -99,
+            "color_range": "tv",
+            "color_space": "bt709",
+            "color_transfer": "bt709",
+            "color_primaries": "bt709",
+            "refs": 1,
+            "r_frame_rate": "24/1",
+            "avg_frame_rate": "66128000/2755323",
+            "time_base": "1/16000",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 2755323,
+            "duration": "172.207687",
+            "bit_rate": "3375562",
+            "nb_frames": "4133",
+            "disposition": {
+                "default": 1,
+                "dub": 0,
+                "original": 0,
+                "comment": 0,
+                "lyrics": 0,
+                "karaoke": 0,
+                "forced": 0,
+                "hearing_impaired": 0,
+                "visual_impaired": 0,
+                "clean_effects": 0,
+                "attached_pic": 0,
+                "timed_thumbnails": 0
+            },
+            "tags": {
+                "language": "und",
+                "handler_name": "ISO Media file produced by Google Inc. Created on: 04/29/2025.",
+                "vendor_id": "[0][0][0][0]"
+            }
+        },
+        {
+            "index": 1,
+            "codec_name": "opus",
+            "codec_long_name": "Opus (Opus Interactive Audio Codec)",
+            "codec_type": "audio",
+            "codec_tag_string": "Opus",
+            "codec_tag": "0x7375704f",
+            "sample_fmt": "fltp",
+            "sample_rate": "48000",
+            "channels": 2,
+            "channel_layout": "stereo",
+            "bits_per_sample": 0,
+            "r_frame_rate": "0/0",
+            "avg_frame_rate": "0/0",
+            "time_base": "1/48000",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 8267568,
+            "duration": "172.241000",
+            "bit_rate": "129752",
+            "nb_frames": "8612",
+            "disposition": {
+                "default": 1,
+                "dub": 0,
+                "original": 0,
+                "comment": 0,
+                "lyrics": 0,
+                "karaoke": 0,
+                "forced": 0,
+                "hearing_impaired": 0,
+                "visual_impaired": 0,
+                "clean_effects": 0,
+                "attached_pic": 0,
+                "timed_thumbnails": 0
+            },
+            "tags": {
+                "language": "eng",
+                "handler_name": "SoundHandler",
+                "vendor_id": "[0][0][0][0]"
+            }
+        }
+    ],
+    "format": {
+        "filename": "data/downloads/WRVsOCh907o\n.mp4",
+        "nb_streams": 2,
+        "nb_programs": 0,
+        "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+        "format_long_name": "QuickTime / MOV",
+        "start_time": "0.000000",
+        "duration": "172.241000",
+        "size": "75571839",
+        "bit_rate": "3510051",
+        "probe_score": 100,
+        "tags": {
+            "major_brand": "isom",
+            "minor_version": "512",
+            "compatible_brands": "isomiso2mp41",
+            "encoder": "Lavf58.76.100"
+        }
+    }
+}

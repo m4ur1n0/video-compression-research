@@ -5,7 +5,7 @@ import json
 import subprocess
 
 urls_path = "./data/urls/most_popular_urls.txt"
-video_out_path = "./data/downloads"
+video_out_path = Path("./data/downloads")
 metadata_path = "./data/video_data"
 
 def download_video(url : str, video_id : str) :
