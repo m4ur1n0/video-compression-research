@@ -22,14 +22,14 @@
             "color_primaries": "bt709",
             "refs": 1,
             "r_frame_rate": "24000/1001",
-            "avg_frame_rate": "21596800/900767",
+            "avg_frame_rate": "591232000/24659307",
             "time_base": "1/16000",
             "start_pts": 0,
             "start_time": "0.000000",
-            "duration_ts": 4503835,
-            "duration": "281.489688",
-            "bit_rate": "4330237",
-            "nb_frames": "6749",
+            "duration_ts": 24659307,
+            "duration": "1541.206688",
+            "bit_rate": "3736281",
+            "nb_frames": "36952",
             "disposition": {
                 "default": 1,
                 "dub": 0,
@@ -46,7 +46,7 @@
             },
             "tags": {
                 "language": "und",
-                "handler_name": "ISO Media file produced by Google Inc. Created on: 04/29/2025.",
+                "handler_name": "ISO Media file produced by Google Inc. Created on: 05/01/2025.",
                 "vendor_id": "[0][0][0][0]"
             }
         },
@@ -67,10 +67,10 @@
             "time_base": "1/48000",
             "start_pts": 0,
             "start_time": "0.000000",
-            "duration_ts": 13513008,
-            "duration": "281.521000",
-            "bit_rate": "128042",
-            "nb_frames": "14076",
+            "duration_ts": 73979568,
+            "duration": "1541.241000",
+            "bit_rate": "122479",
+            "nb_frames": "77062",
             "disposition": {
                 "default": 1,
                 "dub": 0,
@@ -93,15 +93,15 @@
         }
     ],
     "format": {
-        "filename": "data/downloads/kJQP7kiw5Fk\n.mp4",
+        "filename": "data/downloads/0e3GPea1Tyg.mp4",
         "nb_streams": 2,
         "nb_programs": 0,
         "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
         "format_long_name": "QuickTime / MOV",
         "start_time": "0.000000",
-        "duration": "281.521000",
-        "size": "157055442",
-        "bit_rate": "4463054",
+        "duration": "1541.241000",
+        "size": "744399610",
+        "bit_rate": "3863897",
         "probe_score": 100,
         "tags": {
             "major_brand": "isom",
