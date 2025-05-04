@@ -3,6 +3,7 @@ from yt_dlp import YoutubeDL
 from pathlib import Path
 import json
 import subprocess
+import glob
 
 urls_path = "./data/urls/video_urls.json"
 video_out_path = Path("./data/downloads")
@@ -71,10 +72,10 @@ def main():
             count += 1
 
     
-    with open(f"{metadata_path}/report.json", "w") as f:
-        json.dump(result, f, indent=4)
+    # with open(f"{metadata_path}/report.json", "w") as f:
+    #     json.dump(result, f, indent=4)
 
-    mds = {}
+    # mds = {}
 
     for url in urls:
         try:
@@ -84,26 +85,37 @@ def main():
 
             download_video(url, video_id)
             md = extract_metadata(video_id)
-            mds[video_id] = md
+            # mds[video_id] = md
+            other_data = get_video_info_other(url)
 
+            # result stores curr report
+            result[video_id]["metadata"] = md
+            result[video_id]["other_info"] = other_data
+
+            matching_files = glob.glob(f"{video_out_path}/{video_id}.*")
+            for file_path in matching_files:
+                os.remove(file_path)
 
         except Exception as e:
             print(f"Encountered an error in downloading or parsing:\n{e}\n")
-
-    ## ACKNOWLEDGING HOW STUPID AND INEFFICIENT IT IS TO BASICALLY STORE A DICTIONARY IN A FILE TEMPORARILY -- NOT INTERESTED....
-    curr = {}
-    with open(f"{metadata_path}/report.json", "r") as f:
-        curr = json.load(f)
-
-    for url in urls:
-        id = get_video_id(url)
-        other_info = get_video_info_other(url)
-
-        curr[id]["metadata"] = mds[id]
-        curr[id]["other_info"] = other_info
     
     with open(f"{metadata_path}/report.json", "w") as f:
-        json.dump(curr, f, indent=4)
+        json.dump(result, f, indent=4)
+
+    ## ACKNOWLEDGING HOW STUPID AND INEFFICIENT IT IS TO BASICALLY STORE A DICTIONARY IN A FILE TEMPORARILY -- NOT INTERESTED....
+    # curr = {}
+    # with open(f"{metadata_path}/report.json", "r") as f:
+    #     curr = json.load(f)
+
+    # for url in urls:
+    #     id = get_video_id(url)
+    #     other_info = get_video_info_other(url)
+
+    #     curr[id]["metadata"] = mds[id]
+    #     curr[id]["other_info"] = other_info
+    
+    # with open(f"{metadata_path}/report.json", "w") as f:
+    #     json.dump(curr, f, indent=4)
 
         
 

@@ -1,8 +1,1672 @@
 {
+    "0e3GPea1Tyg": {
+        "length": "Long (25 min)",
+        "popularity": "High (785M)",
+        "channel_size": "Large (Mr Beast - 388M)",
+        "channel_echelon" : "large",
+        "url": "https://www.youtube.com/watch?v=0e3GPea1Tyg",
+        "metadata": {
+            "streams": [
+                {
+                    "index": 0,
+                    "codec_name": "vp9",
+                    "codec_long_name": "Google VP9",
+                    "profile": "Profile 0",
+                    "codec_type": "video",
+                    "codec_tag_string": "vp09",
+                    "codec_tag": "0x39307076",
+                    "width": 1920,
+                    "height": 1080,
+                    "coded_width": 1920,
+                    "coded_height": 1080,
+                    "closed_captions": 0,
+                    "has_b_frames": 0,
+                    "pix_fmt": "yuv420p",
+                    "level": -99,
+                    "color_range": "tv",
+                    "color_space": "bt709",
+                    "color_transfer": "bt709",
+                    "color_primaries": "bt709",
+                    "refs": 1,
+                    "r_frame_rate": "24000/1001",
+                    "avg_frame_rate": "591232000/24659307",
+                    "time_base": "1/16000",
+                    "start_pts": 0,
+                    "start_time": "0.000000",
+                    "duration_ts": 24659307,
+                    "duration": "1541.206688",
+                    "bit_rate": "3736281",
+                    "nb_frames": "36952",
+                    "disposition": {
+                        "default": 1,
+                        "dub": 0,
+                        "original": 0,
+                        "comment": 0,
+                        "lyrics": 0,
+                        "karaoke": 0,
+                        "forced": 0,
+                        "hearing_impaired": 0,
+                        "visual_impaired": 0,
+                        "clean_effects": 0,
+                        "attached_pic": 0,
+                        "timed_thumbnails": 0
+                    },
+                    "tags": {
+                        "language": "und",
+                        "handler_name": "ISO Media file produced by Google Inc. Created on: 05/04/2025.",
+                        "vendor_id": "[0][0][0][0]"
+                    }
+                },
+                {
+                    "index": 1,
+                    "codec_name": "opus",
+                    "codec_long_name": "Opus (Opus Interactive Audio Codec)",
+                    "codec_type": "audio",
+                    "codec_tag_string": "Opus",
+                    "codec_tag": "0x7375704f",
+                    "sample_fmt": "fltp",
+                    "sample_rate": "48000",
+                    "channels": 2,
+                    "channel_layout": "stereo",
+                    "bits_per_sample": 0,
+                    "r_frame_rate": "0/0",
+                    "avg_frame_rate": "0/0",
+                    "time_base": "1/48000",
+                    "start_pts": 0,
+                    "start_time": "0.000000",
+                    "duration_ts": 73979568,
+                    "duration": "1541.241000",
+                    "bit_rate": "122479",
+                    "nb_frames": "77062",
+                    "disposition": {
+                        "default": 1,
+                        "dub": 0,
+                        "original": 0,
+                        "comment": 0,
+                        "lyrics": 0,
+                        "karaoke": 0,
+                        "forced": 0,
+                        "hearing_impaired": 0,
+                        "visual_impaired": 0,
+                        "clean_effects": 0,
+                        "attached_pic": 0,
+                        "timed_thumbnails": 0
+                    },
+                    "tags": {
+                        "language": "eng",
+                        "handler_name": "SoundHandler",
+                        "vendor_id": "[0][0][0][0]"
+                    }
+                }
+            ],
+            "format": {
+                "filename": "data/downloads/0e3GPea1Tyg.mp4",
+                "nb_streams": 2,
+                "nb_programs": 0,
+                "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+                "format_long_name": "QuickTime / MOV",
+                "start_time": "0.000000",
+                "duration": "1541.241000",
+                "size": "744399610",
+                "bit_rate": "3863897",
+                "probe_score": 100,
+                "tags": {
+                    "major_brand": "isom",
+                    "minor_version": "512",
+                    "compatible_brands": "isomiso2mp41",
+                    "encoder": "Lavf58.76.100"
+                }
+            }
+        },
+        "other_info": {
+            "video_views": 788710139,
+            "channel_name": "MrBeast",
+            "video_title": "$456,000 Squid Game In Real Life!",
+            "avg_rating": null
+        }
+    },
+    "FygHd591g5g": {
+        "length": "Long (16:18)",
+        "popularity": "Medium (38K)",
+        "channel_size": "Large (333K - Zisteau)",
+        "channel_echelon" : "large",
+        "url": "https://www.youtube.com/watch?v=FygHd591g5g",
+        "metadata": {
+            "streams": [
+                {
+                    "index": 0,
+                    "codec_name": "av1",
+                    "codec_long_name": "Alliance for Open Media AV1",
+                    "profile": "Main",
+                    "codec_type": "video",
+                    "codec_tag_string": "av01",
+                    "codec_tag": "0x31307661",
+                    "width": 2560,
+                    "height": 1440,
+                    "coded_width": 2560,
+                    "coded_height": 1440,
+                    "closed_captions": 0,
+                    "has_b_frames": 0,
+                    "sample_aspect_ratio": "1:1",
+                    "display_aspect_ratio": "16:9",
+                    "pix_fmt": "yuv420p",
+                    "level": 12,
+                    "color_range": "tv",
+                    "color_space": "bt709",
+                    "color_transfer": "bt709",
+                    "color_primaries": "bt709",
+                    "refs": 1,
+                    "r_frame_rate": "60/1",
+                    "avg_frame_rate": "60/1",
+                    "time_base": "1/15360",
+                    "start_pts": 0,
+                    "start_time": "0.000000",
+                    "duration_ts": 15014400,
+                    "duration": "977.500000",
+                    "bit_rate": "5337101",
+                    "nb_frames": "58650",
+                    "disposition": {
+                        "default": 1,
+                        "dub": 0,
+                        "original": 0,
+                        "comment": 0,
+                        "lyrics": 0,
+                        "karaoke": 0,
+                        "forced": 0,
+                        "hearing_impaired": 0,
+                        "visual_impaired": 0,
+                        "clean_effects": 0,
+                        "attached_pic": 0,
+                        "timed_thumbnails": 0
+                    },
+                    "tags": {
+                        "language": "und",
+                        "handler_name": "ISO Media file produced by Google Inc.",
+                        "vendor_id": "[0][0][0][0]"
+                    }
+                },
+                {
+                    "index": 1,
+                    "codec_name": "opus",
+                    "codec_long_name": "Opus (Opus Interactive Audio Codec)",
+                    "codec_type": "audio",
+                    "codec_tag_string": "Opus",
+                    "codec_tag": "0x7375704f",
+                    "sample_fmt": "fltp",
+                    "sample_rate": "48000",
+                    "channels": 2,
+                    "channel_layout": "stereo",
+                    "bits_per_sample": 0,
+                    "r_frame_rate": "0/0",
+                    "avg_frame_rate": "0/0",
+                    "time_base": "1/48000",
+                    "start_pts": 0,
+                    "start_time": "0.000000",
+                    "duration_ts": 46921968,
+                    "duration": "977.541000",
+                    "bit_rate": "132954",
+                    "nb_frames": "48877",
+                    "disposition": {
+                        "default": 1,
+                        "dub": 0,
+                        "original": 0,
+                        "comment": 0,
+                        "lyrics": 0,
+                        "karaoke": 0,
+                        "forced": 0,
+                        "hearing_impaired": 0,
+                        "visual_impaired": 0,
+                        "clean_effects": 0,
+                        "attached_pic": 0,
+                        "timed_thumbnails": 0
+                    },
+                    "tags": {
+                        "language": "eng",
+                        "handler_name": "SoundHandler",
+                        "vendor_id": "[0][0][0][0]"
+                    }
+                }
+            ],
+            "format": {
+                "filename": "data/downloads/FygHd591g5g.mp4",
+                "nb_streams": 2,
+                "nb_programs": 0,
+                "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+                "format_long_name": "QuickTime / MOV",
+                "start_time": "0.000000",
+                "duration": "977.541000",
+                "size": "669431398",
+                "bit_rate": "5478492",
+                "probe_score": 100,
+                "tags": {
+                    "major_brand": "isom",
+                    "minor_version": "512",
+                    "compatible_brands": "isomav01iso2mp41",
+                    "encoder": "Lavf58.76.100"
+                }
+            }
+        },
+        "other_info": {
+            "video_views": 38542,
+            "channel_name": "Zisteau",
+            "video_title": "the best start in Satisfactory (update 8)",
+            "avg_rating": null
+        }
+    },
+    "AepZzZS6j_U": {
+        "length": "Long (3:44:01)",
+        "popularity": "Medium (39k)",
+        "channel_size": "Medium (57.3k - CottonVelvet)",
+        "channel_echelon" : "medium",
+        "url": "https://www.youtube.com/watch?v=AepZzZS6j_U",
+        "metadata": {
+            "streams": [
+                {
+                    "index": 0,
+                    "codec_name": "av1",
+                    "codec_long_name": "Alliance for Open Media AV1",
+                    "profile": "Main",
+                    "codec_type": "video",
+                    "codec_tag_string": "av01",
+                    "codec_tag": "0x31307661",
+                    "width": 1920,
+                    "height": 1080,
+                    "coded_width": 1920,
+                    "coded_height": 1080,
+                    "closed_captions": 0,
+                    "has_b_frames": 0,
+                    "sample_aspect_ratio": "1:1",
+                    "display_aspect_ratio": "16:9",
+                    "pix_fmt": "yuv420p",
+                    "level": 9,
+                    "color_range": "tv",
+                    "color_space": "bt709",
+                    "color_transfer": "bt709",
+                    "color_primaries": "bt709",
+                    "refs": 1,
+                    "r_frame_rate": "60/1",
+                    "avg_frame_rate": "60/1",
+                    "time_base": "1/15360",
+                    "start_pts": 0,
+                    "start_time": "0.000000",
+                    "duration_ts": 206448384,
+                    "duration": "13440.650000",
+                    "bit_rate": "1268626",
+                    "nb_frames": "806439",
+                    "disposition": {
+                        "default": 1,
+                        "dub": 0,
+                        "original": 0,
+                        "comment": 0,
+                        "lyrics": 0,
+                        "karaoke": 0,
+                        "forced": 0,
+                        "hearing_impaired": 0,
+                        "visual_impaired": 0,
+                        "clean_effects": 0,
+                        "attached_pic": 0,
+                        "timed_thumbnails": 0
+                    },
+                    "tags": {
+                        "language": "und",
+                        "handler_name": "ISO Media file produced by Google Inc.",
+                        "vendor_id": "[0][0][0][0]"
+                    }
+                },
+                {
+                    "index": 1,
+                    "codec_name": "opus",
+                    "codec_long_name": "Opus (Opus Interactive Audio Codec)",
+                    "codec_type": "audio",
+                    "codec_tag_string": "Opus",
+                    "codec_tag": "0x7375704f",
+                    "sample_fmt": "fltp",
+                    "sample_rate": "48000",
+                    "channels": 2,
+                    "channel_layout": "stereo",
+                    "bits_per_sample": 0,
+                    "r_frame_rate": "0/0",
+                    "avg_frame_rate": "0/0",
+                    "time_base": "1/48000",
+                    "start_pts": 0,
+                    "start_time": "0.000000",
+                    "duration_ts": 645151728,
+                    "duration": "13440.661000",
+                    "bit_rate": "113324",
+                    "nb_frames": "672033",
+                    "disposition": {
+                        "default": 1,
+                        "dub": 0,
+                        "original": 0,
+                        "comment": 0,
+                        "lyrics": 0,
+                        "karaoke": 0,
+                        "forced": 0,
+                        "hearing_impaired": 0,
+                        "visual_impaired": 0,
+                        "clean_effects": 0,
+                        "attached_pic": 0,
+                        "timed_thumbnails": 0
+                    },
+                    "tags": {
+                        "language": "eng",
+                        "handler_name": "SoundHandler",
+                        "vendor_id": "[0][0][0][0]"
+                    }
+                }
+            ],
+            "format": {
+                "filename": "data/downloads/AepZzZS6j_U.mp4",
+                "nb_streams": 2,
+                "nb_programs": 0,
+                "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+                "format_long_name": "QuickTime / MOV",
+                "start_time": "0.000000",
+                "duration": "13440.661000",
+                "size": "2336320175",
+                "bit_rate": "1390598",
+                "probe_score": 100,
+                "tags": {
+                    "major_brand": "isom",
+                    "minor_version": "512",
+                    "compatible_brands": "isomav01iso2mp41",
+                    "encoder": "Lavf58.76.100"
+                }
+            }
+        },
+        "other_info": {
+            "video_views": 47535,
+            "channel_name": "CottonVelvet",
+            "video_title": "Minecraft Relaxing Longplay - Rainy Dark Forest - Cozy Cottage House (No Commentary) 1.21",
+            "avg_rating": null
+        }
+    },
+    "9So3Xj26OC8": {
+        "length": "Long (39 min)",
+        "popularity": "Low (1.4k)",
+        "channel_size": "Large (170K - Hawlo)",
+        "channel_echelon" : "large",
+        "url": "https://www.youtube.com/watch?v=9So3Xj26OC8",
+        "metadata": {
+            "streams": [
+                {
+                    "index": 0,
+                    "codec_name": "vp9",
+                    "codec_long_name": "Google VP9",
+                    "profile": "Profile 0",
+                    "codec_type": "video",
+                    "codec_tag_string": "vp09",
+                    "codec_tag": "0x39307076",
+                    "width": 1920,
+                    "height": 1080,
+                    "coded_width": 1920,
+                    "coded_height": 1080,
+                    "closed_captions": 0,
+                    "has_b_frames": 0,
+                    "sample_aspect_ratio": "1:1",
+                    "display_aspect_ratio": "16:9",
+                    "pix_fmt": "yuv420p",
+                    "level": -99,
+                    "color_range": "tv",
+                    "color_space": "bt709",
+                    "color_transfer": "bt709",
+                    "color_primaries": "bt709",
+                    "refs": 1,
+                    "r_frame_rate": "60/1",
+                    "avg_frame_rate": "71126000/1185433",
+                    "time_base": "1/16000",
+                    "start_pts": 0,
+                    "start_time": "0.000000",
+                    "duration_ts": 37933856,
+                    "duration": "2370.866000",
+                    "bit_rate": "2142566",
+                    "nb_frames": "142252",
+                    "disposition": {
+                        "default": 1,
+                        "dub": 0,
+                        "original": 0,
+                        "comment": 0,
+                        "lyrics": 0,
+                        "karaoke": 0,
+                        "forced": 0,
+                        "hearing_impaired": 0,
+                        "visual_impaired": 0,
+                        "clean_effects": 0,
+                        "attached_pic": 0,
+                        "timed_thumbnails": 0
+                    },
+                    "tags": {
+                        "language": "eng",
+                        "handler_name": "VideoHandler",
+                        "vendor_id": "[0][0][0][0]"
+                    }
+                },
+                {
+                    "index": 1,
+                    "codec_name": "opus",
+                    "codec_long_name": "Opus (Opus Interactive Audio Codec)",
+                    "codec_type": "audio",
+                    "codec_tag_string": "Opus",
+                    "codec_tag": "0x7375704f",
+                    "sample_fmt": "fltp",
+                    "sample_rate": "48000",
+                    "channels": 2,
+                    "channel_layout": "stereo",
+                    "bits_per_sample": 0,
+                    "r_frame_rate": "0/0",
+                    "avg_frame_rate": "0/0",
+                    "time_base": "1/48000",
+                    "start_pts": 0,
+                    "start_time": "0.000000",
+                    "duration_ts": 113802288,
+                    "duration": "2370.881000",
+                    "bit_rate": "120694",
+                    "nb_frames": "118544",
+                    "disposition": {
+                        "default": 1,
+                        "dub": 0,
+                        "original": 0,
+                        "comment": 0,
+                        "lyrics": 0,
+                        "karaoke": 0,
+                        "forced": 0,
+                        "hearing_impaired": 0,
+                        "visual_impaired": 0,
+                        "clean_effects": 0,
+                        "attached_pic": 0,
+                        "timed_thumbnails": 0
+                    },
+                    "tags": {
+                        "language": "eng",
+                        "handler_name": "SoundHandler",
+                        "vendor_id": "[0][0][0][0]"
+                    }
+                }
+            ],
+            "format": {
+                "filename": "data/downloads/9So3Xj26OC8.mp4",
+                "nb_streams": 2,
+                "nb_programs": 0,
+                "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+                "format_long_name": "QuickTime / MOV",
+                "start_time": "0.000000",
+                "duration": "2370.881000",
+                "size": "674058849",
+                "bit_rate": "2274458",
+                "probe_score": 100,
+                "tags": {
+                    "major_brand": "isom",
+                    "minor_version": "512",
+                    "compatible_brands": "isomiso2mp41",
+                    "encoder": "Lavf58.76.100"
+                }
+            }
+        },
+        "other_info": {
+            "video_views": 1441,
+            "channel_name": "Hawlo",
+            "video_title": "Mario & Luigi: Brothership (100%) - Part #21: Surprise Attack",
+            "avg_rating": null
+        }
+    },
+    "RDROZ4dppkk": {
+        "length": "long (27:03)",
+        "popularity": "Low (25K)",
+        "channel_size": "Small (8k - Pokemon Explainers)",
+        "channel_echelon" : "small",
+        "url": "https://www.youtube.com/watch?v=RDROZ4dppkk",
+        "metadata": {
+            "streams": [
+                {
+                    "index": 0,
+                    "codec_name": "vp9",
+                    "codec_long_name": "Google VP9",
+                    "profile": "Profile 0",
+                    "codec_type": "video",
+                    "codec_tag_string": "vp09",
+                    "codec_tag": "0x39307076",
+                    "width": 1920,
+                    "height": 1080,
+                    "coded_width": 1920,
+                    "coded_height": 1080,
+                    "closed_captions": 0,
+                    "has_b_frames": 0,
+                    "sample_aspect_ratio": "1:1",
+                    "display_aspect_ratio": "16:9",
+                    "pix_fmt": "yuv420p",
+                    "level": -99,
+                    "color_range": "tv",
+                    "color_space": "bt709",
+                    "color_transfer": "bt709",
+                    "color_primaries": "bt709",
+                    "refs": 1,
+                    "r_frame_rate": "30000/1001",
+                    "avg_frame_rate": "9727400/324571",
+                    "time_base": "1/16000",
+                    "start_pts": 0,
+                    "start_time": "0.000000",
+                    "duration_ts": 25965680,
+                    "duration": "1622.855000",
+                    "bit_rate": "706634",
+                    "nb_frames": "48637",
+                    "disposition": {
+                        "default": 1,
+                        "dub": 0,
+                        "original": 0,
+                        "comment": 0,
+                        "lyrics": 0,
+                        "karaoke": 0,
+                        "forced": 0,
+                        "hearing_impaired": 0,
+                        "visual_impaired": 0,
+                        "clean_effects": 0,
+                        "attached_pic": 0,
+                        "timed_thumbnails": 0
+                    },
+                    "tags": {
+                        "language": "eng",
+                        "handler_name": "VideoHandler",
+                        "vendor_id": "[0][0][0][0]"
+                    }
+                },
+                {
+                    "index": 1,
+                    "codec_name": "opus",
+                    "codec_long_name": "Opus (Opus Interactive Audio Codec)",
+                    "codec_type": "audio",
+                    "codec_tag_string": "Opus",
+                    "codec_tag": "0x7375704f",
+                    "sample_fmt": "fltp",
+                    "sample_rate": "48000",
+                    "channels": 2,
+                    "channel_layout": "stereo",
+                    "bits_per_sample": 0,
+                    "r_frame_rate": "0/0",
+                    "avg_frame_rate": "0/0",
+                    "time_base": "1/48000",
+                    "start_pts": 0,
+                    "start_time": "0.000000",
+                    "duration_ts": 77898288,
+                    "duration": "1622.881000",
+                    "bit_rate": "131537",
+                    "nb_frames": "81144",
+                    "disposition": {
+                        "default": 1,
+                        "dub": 0,
+                        "original": 0,
+                        "comment": 0,
+                        "lyrics": 0,
+                        "karaoke": 0,
+                        "forced": 0,
+                        "hearing_impaired": 0,
+                        "visual_impaired": 0,
+                        "clean_effects": 0,
+                        "attached_pic": 0,
+                        "timed_thumbnails": 0
+                    },
+                    "tags": {
+                        "language": "eng",
+                        "handler_name": "SoundHandler",
+                        "vendor_id": "[0][0][0][0]"
+                    }
+                }
+            ],
+            "format": {
+                "filename": "data/downloads/RDROZ4dppkk.mp4",
+                "nb_streams": 2,
+                "nb_programs": 0,
+                "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+                "format_long_name": "QuickTime / MOV",
+                "start_time": "0.000000",
+                "duration": "1622.881000",
+                "size": "171612889",
+                "bit_rate": "845966",
+                "probe_score": 100,
+                "tags": {
+                    "major_brand": "isom",
+                    "minor_version": "512",
+                    "compatible_brands": "isomiso2mp41",
+                    "encoder": "Lavf58.76.100"
+                }
+            }
+        },
+        "other_info": {
+            "video_views": 26359,
+            "channel_name": "Pokemon Explainer",
+            "video_title": "Every Legendary Pokemon Explained In 27 Minutes Part 2",
+            "avg_rating": null
+        }
+    },
+    "B8Bcpmxdtwk": {
+        "length": "Long (7:07:51)",
+        "popularity": "Low (216)",
+        "channel_size": "Small (1.98k - ZOD)",
+        "channel_echelon" : "small",
+        "url": "https://www.youtube.com/watch?v=B8Bcpmxdtwk",
+        "metadata": {
+            "streams": [
+                {
+                    "index": 0,
+                    "codec_name": "vp9",
+                    "codec_long_name": "Google VP9",
+                    "profile": "Profile 0",
+                    "codec_type": "video",
+                    "codec_tag_string": "vp09",
+                    "codec_tag": "0x39307076",
+                    "width": 1280,
+                    "height": 720,
+                    "coded_width": 1280,
+                    "coded_height": 720,
+                    "closed_captions": 0,
+                    "has_b_frames": 0,
+                    "sample_aspect_ratio": "1:1",
+                    "display_aspect_ratio": "16:9",
+                    "pix_fmt": "yuv420p",
+                    "level": -99,
+                    "color_range": "tv",
+                    "color_space": "bt709",
+                    "color_transfer": "bt709",
+                    "color_primaries": "bt709",
+                    "refs": 1,
+                    "r_frame_rate": "60/1",
+                    "avg_frame_rate": "1540260000/25670999",
+                    "time_base": "1/16000",
+                    "start_pts": 0,
+                    "start_time": "0.000000",
+                    "duration_ts": 410735984,
+                    "duration": "25670.999000",
+                    "bit_rate": "1383485",
+                    "nb_frames": "1540260",
+                    "disposition": {
+                        "default": 1,
+                        "dub": 0,
+                        "original": 0,
+                        "comment": 0,
+                        "lyrics": 0,
+                        "karaoke": 0,
+                        "forced": 0,
+                        "hearing_impaired": 0,
+                        "visual_impaired": 0,
+                        "clean_effects": 0,
+                        "attached_pic": 0,
+                        "timed_thumbnails": 0
+                    },
+                    "tags": {
+                        "language": "eng",
+                        "handler_name": "VideoHandler",
+                        "vendor_id": "[0][0][0][0]"
+                    }
+                },
+                {
+                    "index": 1,
+                    "codec_name": "opus",
+                    "codec_long_name": "Opus (Opus Interactive Audio Codec)",
+                    "codec_type": "audio",
+                    "codec_tag_string": "Opus",
+                    "codec_tag": "0x7375704f",
+                    "sample_fmt": "fltp",
+                    "sample_rate": "48000",
+                    "channels": 2,
+                    "channel_layout": "stereo",
+                    "bits_per_sample": 0,
+                    "r_frame_rate": "0/0",
+                    "avg_frame_rate": "0/0",
+                    "time_base": "1/48000",
+                    "start_pts": 0,
+                    "start_time": "0.000000",
+                    "duration_ts": 1232209008,
+                    "duration": "25671.021000",
+                    "bit_rate": "123859",
+                    "nb_frames": "1283551",
+                    "disposition": {
+                        "default": 1,
+                        "dub": 0,
+                        "original": 0,
+                        "comment": 0,
+                        "lyrics": 0,
+                        "karaoke": 0,
+                        "forced": 0,
+                        "hearing_impaired": 0,
+                        "visual_impaired": 0,
+                        "clean_effects": 0,
+                        "attached_pic": 0,
+                        "timed_thumbnails": 0
+                    },
+                    "tags": {
+                        "language": "eng",
+                        "handler_name": "SoundHandler",
+                        "vendor_id": "[0][0][0][0]"
+                    }
+                }
+            ],
+            "format": {
+                "filename": "data/downloads/B8Bcpmxdtwk.mp4",
+                "nb_streams": 2,
+                "nb_programs": 0,
+                "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+                "format_long_name": "QuickTime / MOV",
+                "start_time": "0.000000",
+                "duration": "25671.021000",
+                "size": "4883116134",
+                "bit_rate": "1521752",
+                "probe_score": 100,
+                "tags": {
+                    "major_brand": "isom",
+                    "minor_version": "512",
+                    "compatible_brands": "isomiso2mp41",
+                    "encoder": "Lavf58.76.100"
+                }
+            }
+        },
+        "other_info": {
+            "video_views": 250,
+            "channel_name": "ZOD",
+            "video_title": "Mount and Blade 2: Bannerlord - Gristle dey Hedgehog Starts a Family (April 9th 2025)",
+            "avg_rating": null
+        }
+    },
+    "yCCVz2nehYM": {
+        "length": "Medium (6:56)",
+        "popularity": "High (196k)",
+        "channel_size": "Large (116K - Lisa Remillard)",
+        "channel_echelon" : "large",
+        "url": "https://www.youtube.com/watch?v=yCCVz2nehYM",
+        "metadata": {
+            "streams": [
+                {
+                    "index": 0,
+                    "codec_name": "vp9",
+                    "codec_long_name": "Google VP9",
+                    "profile": "Profile 0",
+                    "codec_type": "video",
+                    "codec_tag_string": "vp09",
+                    "codec_tag": "0x39307076",
+                    "width": 1080,
+                    "height": 1920,
+                    "coded_width": 1080,
+                    "coded_height": 1920,
+                    "closed_captions": 0,
+                    "has_b_frames": 0,
+                    "pix_fmt": "yuv420p",
+                    "level": -99,
+                    "color_range": "tv",
+                    "color_space": "bt709",
+                    "color_transfer": "bt709",
+                    "color_primaries": "bt709",
+                    "refs": 1,
+                    "r_frame_rate": "30/1",
+                    "avg_frame_rate": "199616000/6653877",
+                    "time_base": "1/16000",
+                    "start_pts": 0,
+                    "start_time": "0.000000",
+                    "duration_ts": 6653877,
+                    "duration": "415.867313",
+                    "bit_rate": "2276426",
+                    "nb_frames": "12476",
+                    "disposition": {
+                        "default": 1,
+                        "dub": 0,
+                        "original": 0,
+                        "comment": 0,
+                        "lyrics": 0,
+                        "karaoke": 0,
+                        "forced": 0,
+                        "hearing_impaired": 0,
+                        "visual_impaired": 0,
+                        "clean_effects": 0,
+                        "attached_pic": 0,
+                        "timed_thumbnails": 0
+                    },
+                    "tags": {
+                        "language": "und",
+                        "handler_name": "ISO Media file produced by Google Inc. Created on: 05/04/2025.",
+                        "vendor_id": "[0][0][0][0]"
+                    }
+                },
+                {
+                    "index": 1,
+                    "codec_name": "opus",
+                    "codec_long_name": "Opus (Opus Interactive Audio Codec)",
+                    "codec_type": "audio",
+                    "codec_tag_string": "Opus",
+                    "codec_tag": "0x7375704f",
+                    "sample_fmt": "fltp",
+                    "sample_rate": "48000",
+                    "channels": 2,
+                    "channel_layout": "stereo",
+                    "bits_per_sample": 0,
+                    "r_frame_rate": "0/0",
+                    "avg_frame_rate": "0/0",
+                    "time_base": "1/48000",
+                    "start_pts": 0,
+                    "start_time": "0.000000",
+                    "duration_ts": 19962288,
+                    "duration": "415.881000",
+                    "bit_rate": "101905",
+                    "nb_frames": "20794",
+                    "disposition": {
+                        "default": 1,
+                        "dub": 0,
+                        "original": 0,
+                        "comment": 0,
+                        "lyrics": 0,
+                        "karaoke": 0,
+                        "forced": 0,
+                        "hearing_impaired": 0,
+                        "visual_impaired": 0,
+                        "clean_effects": 0,
+                        "attached_pic": 0,
+                        "timed_thumbnails": 0
+                    },
+                    "tags": {
+                        "language": "eng",
+                        "handler_name": "SoundHandler",
+                        "vendor_id": "[0][0][0][0]"
+                    }
+                }
+            ],
+            "format": {
+                "filename": "data/downloads/yCCVz2nehYM.mp4",
+                "nb_streams": 2,
+                "nb_programs": 0,
+                "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+                "format_long_name": "QuickTime / MOV",
+                "start_time": "0.000000",
+                "duration": "415.881000",
+                "size": "124034886",
+                "bit_rate": "2385968",
+                "probe_score": 100,
+                "tags": {
+                    "major_brand": "isom",
+                    "minor_version": "512",
+                    "compatible_brands": "isomiso2mp41",
+                    "encoder": "Lavf58.76.100"
+                }
+            }
+        },
+        "other_info": {
+            "video_views": 196879,
+            "channel_name": "Lisa Remillard",
+            "video_title": "Supreme Court recap after Trump's 14th Amendment case",
+            "avg_rating": null
+        }
+    },
+    "yoEyfEjX9Fo": {
+        "length": "Medium (10:34)",
+        "popularity": "High (964K)",
+        "channel_size": "Large (328K - Yeet Smash)",
+        "channel_echelon" : "large",
+        "url": "https://www.youtube.com/watch?v=yoEyfEjX9Fo",
+        "metadata": {
+            "streams": [
+                {
+                    "index": 0,
+                    "codec_name": "av1",
+                    "codec_long_name": "Alliance for Open Media AV1",
+                    "profile": "Main",
+                    "codec_type": "video",
+                    "codec_tag_string": "av01",
+                    "codec_tag": "0x31307661",
+                    "width": 1920,
+                    "height": 1080,
+                    "coded_width": 1920,
+                    "coded_height": 1080,
+                    "closed_captions": 0,
+                    "has_b_frames": 0,
+                    "sample_aspect_ratio": "1:1",
+                    "display_aspect_ratio": "16:9",
+                    "pix_fmt": "yuv420p",
+                    "level": 9,
+                    "color_range": "tv",
+                    "color_space": "bt709",
+                    "color_transfer": "bt709",
+                    "color_primaries": "bt709",
+                    "refs": 1,
+                    "r_frame_rate": "60/1",
+                    "avg_frame_rate": "60/1",
+                    "time_base": "1/15360",
+                    "start_pts": 0,
+                    "start_time": "0.000000",
+                    "duration_ts": 9729792,
+                    "duration": "633.450000",
+                    "bit_rate": "3034839",
+                    "nb_frames": "38007",
+                    "disposition": {
+                        "default": 1,
+                        "dub": 0,
+                        "original": 0,
+                        "comment": 0,
+                        "lyrics": 0,
+                        "karaoke": 0,
+                        "forced": 0,
+                        "hearing_impaired": 0,
+                        "visual_impaired": 0,
+                        "clean_effects": 0,
+                        "attached_pic": 0,
+                        "timed_thumbnails": 0
+                    },
+                    "tags": {
+                        "language": "und",
+                        "handler_name": "ISO Media file produced by Google Inc.",
+                        "vendor_id": "[0][0][0][0]"
+                    }
+                },
+                {
+                    "index": 1,
+                    "codec_name": "aac",
+                    "codec_long_name": "AAC (Advanced Audio Coding)",
+                    "profile": "LC",
+                    "codec_type": "audio",
+                    "codec_tag_string": "mp4a",
+                    "codec_tag": "0x6134706d",
+                    "sample_fmt": "fltp",
+                    "sample_rate": "44100",
+                    "channels": 2,
+                    "channel_layout": "stereo",
+                    "bits_per_sample": 0,
+                    "r_frame_rate": "0/0",
+                    "avg_frame_rate": "0/0",
+                    "time_base": "1/44100",
+                    "start_pts": 0,
+                    "start_time": "0.000000",
+                    "duration_ts": 27937792,
+                    "duration": "633.510023",
+                    "bit_rate": "128000",
+                    "nb_frames": "27283",
+                    "disposition": {
+                        "default": 1,
+                        "dub": 0,
+                        "original": 0,
+                        "comment": 0,
+                        "lyrics": 0,
+                        "karaoke": 0,
+                        "forced": 0,
+                        "hearing_impaired": 0,
+                        "visual_impaired": 0,
+                        "clean_effects": 0,
+                        "attached_pic": 0,
+                        "timed_thumbnails": 0
+                    },
+                    "tags": {
+                        "language": "eng",
+                        "handler_name": "ISO Media file produced by Google Inc. Created on: 01/04/2019.",
+                        "vendor_id": "[0][0][0][0]"
+                    }
+                }
+            ],
+            "format": {
+                "filename": "data/downloads/yoEyfEjX9Fo.mp4",
+                "nb_streams": 2,
+                "nb_programs": 0,
+                "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+                "format_long_name": "QuickTime / MOV",
+                "start_time": "0.000000",
+                "duration": "633.511000",
+                "size": "251177555",
+                "bit_rate": "3171879",
+                "probe_score": 100,
+                "tags": {
+                    "major_brand": "isom",
+                    "minor_version": "512",
+                    "compatible_brands": "isomav01iso2mp41",
+                    "encoder": "Lavf58.76.100"
+                }
+            }
+        },
+        "other_info": {
+            "video_views": 964832,
+            "channel_name": "YEET Smash",
+            "video_title": "Brutal Shield Breaks in Smash Ultimate #2",
+            "avg_rating": null
+        }
+    },
+    "cq1qEjwSYkw": {
+        "length": "Medium (10:14)",
+        "popularity": "Large (329k)",
+        "channel_size": "Medium (56.8K - InsideEVs)",
+        "channel_echelon" : "medium",
+        "url": "https://www.youtube.com/watch?v=cq1qEjwSYkw",
+        "metadata": {
+            "streams": [
+                {
+                    "index": 0,
+                    "codec_name": "vp9",
+                    "codec_long_name": "Google VP9",
+                    "profile": "Profile 0",
+                    "codec_type": "video",
+                    "codec_tag_string": "vp09",
+                    "codec_tag": "0x39307076",
+                    "width": 1920,
+                    "height": 1080,
+                    "coded_width": 1920,
+                    "coded_height": 1080,
+                    "closed_captions": 0,
+                    "has_b_frames": 0,
+                    "pix_fmt": "yuv420p",
+                    "level": -99,
+                    "color_range": "tv",
+                    "color_space": "bt709",
+                    "color_transfer": "bt709",
+                    "color_primaries": "bt709",
+                    "refs": 1,
+                    "r_frame_rate": "24000/1001",
+                    "avg_frame_rate": "235520000/9823147",
+                    "time_base": "1/16000",
+                    "start_pts": 0,
+                    "start_time": "0.000000",
+                    "duration_ts": 9823147,
+                    "duration": "613.946688",
+                    "bit_rate": "1659664",
+                    "nb_frames": "14720",
+                    "disposition": {
+                        "default": 1,
+                        "dub": 0,
+                        "original": 0,
+                        "comment": 0,
+                        "lyrics": 0,
+                        "karaoke": 0,
+                        "forced": 0,
+                        "hearing_impaired": 0,
+                        "visual_impaired": 0,
+                        "clean_effects": 0,
+                        "attached_pic": 0,
+                        "timed_thumbnails": 0
+                    },
+                    "tags": {
+                        "language": "und",
+                        "handler_name": "ISO Media file produced by Google Inc. Created on: 05/04/2025.",
+                        "vendor_id": "[0][0][0][0]"
+                    }
+                },
+                {
+                    "index": 1,
+                    "codec_name": "opus",
+                    "codec_long_name": "Opus (Opus Interactive Audio Codec)",
+                    "codec_type": "audio",
+                    "codec_tag_string": "Opus",
+                    "codec_tag": "0x7375704f",
+                    "sample_fmt": "fltp",
+                    "sample_rate": "48000",
+                    "channels": 2,
+                    "channel_layout": "stereo",
+                    "bits_per_sample": 0,
+                    "r_frame_rate": "0/0",
+                    "avg_frame_rate": "0/0",
+                    "time_base": "1/48000",
+                    "start_pts": 0,
+                    "start_time": "0.000000",
+                    "duration_ts": 29470128,
+                    "duration": "613.961000",
+                    "bit_rate": "127884",
+                    "nb_frames": "30698",
+                    "disposition": {
+                        "default": 1,
+                        "dub": 0,
+                        "original": 0,
+                        "comment": 0,
+                        "lyrics": 0,
+                        "karaoke": 0,
+                        "forced": 0,
+                        "hearing_impaired": 0,
+                        "visual_impaired": 0,
+                        "clean_effects": 0,
+                        "attached_pic": 0,
+                        "timed_thumbnails": 0
+                    },
+                    "tags": {
+                        "language": "eng",
+                        "handler_name": "SoundHandler",
+                        "vendor_id": "[0][0][0][0]"
+                    }
+                }
+            ],
+            "format": {
+                "filename": "data/downloads/cq1qEjwSYkw.mp4",
+                "nb_streams": 2,
+                "nb_programs": 0,
+                "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+                "format_long_name": "QuickTime / MOV",
+                "start_time": "0.000000",
+                "duration": "613.961000",
+                "size": "137583190",
+                "bit_rate": "1792728",
+                "probe_score": 100,
+                "tags": {
+                    "major_brand": "isom",
+                    "minor_version": "512",
+                    "compatible_brands": "isomiso2mp41",
+                    "encoder": "Lavf58.76.100"
+                }
+            }
+        },
+        "other_info": {
+            "video_views": 763094,
+            "channel_name": "InsideEVs",
+            "video_title": "Slate's Cheap $25K EV Truck Can Transform Into An SUV",
+            "avg_rating": null
+        }
+    },
+    "wRxiF8bKX04": {
+        "length": "Medium (6:58)",
+        "popularity": "Medium (77k)",
+        "channel_size": "Large (347k - grayfruit)",
+        "channel_echelon" : "large",
+        "url": "https://www.youtube.com/watch?v=wRxiF8bKX04",
+        "metadata": {
+            "streams": [
+                {
+                    "index": 0,
+                    "codec_name": "h264",
+                    "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+                    "profile": "High",
+                    "codec_type": "video",
+                    "codec_tag_string": "avc1",
+                    "codec_tag": "0x31637661",
+                    "width": 1920,
+                    "height": 1080,
+                    "coded_width": 1920,
+                    "coded_height": 1080,
+                    "closed_captions": 0,
+                    "has_b_frames": 1,
+                    "sample_aspect_ratio": "1:1",
+                    "display_aspect_ratio": "16:9",
+                    "pix_fmt": "yuv420p",
+                    "level": 40,
+                    "color_range": "tv",
+                    "color_space": "bt709",
+                    "color_transfer": "bt709",
+                    "color_primaries": "bt709",
+                    "chroma_location": "left",
+                    "refs": 1,
+                    "is_avc": "true",
+                    "nal_length_size": "4",
+                    "r_frame_rate": "30000/1001",
+                    "avg_frame_rate": "30000/1001",
+                    "time_base": "1/30000",
+                    "start_pts": 0,
+                    "start_time": "0.000000",
+                    "duration_ts": 12535523,
+                    "duration": "417.850767",
+                    "bit_rate": "3962189",
+                    "bits_per_raw_sample": "8",
+                    "nb_frames": "12523",
+                    "disposition": {
+                        "default": 1,
+                        "dub": 0,
+                        "original": 0,
+                        "comment": 0,
+                        "lyrics": 0,
+                        "karaoke": 0,
+                        "forced": 0,
+                        "hearing_impaired": 0,
+                        "visual_impaired": 0,
+                        "clean_effects": 0,
+                        "attached_pic": 0,
+                        "timed_thumbnails": 0
+                    },
+                    "tags": {
+                        "language": "und",
+                        "handler_name": "ISO Media file produced by Google Inc.",
+                        "vendor_id": "[0][0][0][0]"
+                    }
+                },
+                {
+                    "index": 1,
+                    "codec_name": "opus",
+                    "codec_long_name": "Opus (Opus Interactive Audio Codec)",
+                    "codec_type": "audio",
+                    "codec_tag_string": "Opus",
+                    "codec_tag": "0x7375704f",
+                    "sample_fmt": "fltp",
+                    "sample_rate": "48000",
+                    "channels": 2,
+                    "channel_layout": "stereo",
+                    "bits_per_sample": 0,
+                    "r_frame_rate": "0/0",
+                    "avg_frame_rate": "0/0",
+                    "time_base": "1/48000",
+                    "start_pts": 0,
+                    "start_time": "0.000000",
+                    "duration_ts": 20058288,
+                    "duration": "417.881000",
+                    "bit_rate": "123887",
+                    "nb_frames": "20894",
+                    "disposition": {
+                        "default": 1,
+                        "dub": 0,
+                        "original": 0,
+                        "comment": 0,
+                        "lyrics": 0,
+                        "karaoke": 0,
+                        "forced": 0,
+                        "hearing_impaired": 0,
+                        "visual_impaired": 0,
+                        "clean_effects": 0,
+                        "attached_pic": 0,
+                        "timed_thumbnails": 0
+                    },
+                    "tags": {
+                        "language": "eng",
+                        "handler_name": "SoundHandler",
+                        "vendor_id": "[0][0][0][0]"
+                    }
+                }
+            ],
+            "format": {
+                "filename": "data/downloads/wRxiF8bKX04.mp4",
+                "nb_streams": 2,
+                "nb_programs": 0,
+                "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+                "format_long_name": "QuickTime / MOV",
+                "start_time": "0.000000",
+                "duration": "417.881000",
+                "size": "213827572",
+                "bit_rate": "4093559",
+                "probe_score": 100,
+                "tags": {
+                    "major_brand": "isom",
+                    "minor_version": "512",
+                    "compatible_brands": "isomiso2avc1mp41",
+                    "encoder": "Lavf58.76.100"
+                }
+            }
+        },
+        "other_info": {
+            "video_views": 77888,
+            "channel_name": "grayfruit",
+            "video_title": "Fruit Basket 9: A Community Mr. Game & Watch Montage",
+            "avg_rating": null
+        }
+    },
+    "-DzzCA1mGow": {
+        "length": "Medium (13:36)",
+        "popularity": "Medium (84K)",
+        "channel_size": "Medium (67.8K - FaceDev)",
+        "channel_echelon" : "medium",
+        "url": "https://www.youtube.com/watch?v=-DzzCA1mGow",
+        "metadata": {
+            "streams": [
+                {
+                    "index": 0,
+                    "codec_name": "av1",
+                    "codec_long_name": "Alliance for Open Media AV1",
+                    "profile": "Main",
+                    "codec_type": "video",
+                    "codec_tag_string": "av01",
+                    "codec_tag": "0x31307661",
+                    "width": 3840,
+                    "height": 2160,
+                    "coded_width": 3840,
+                    "coded_height": 2160,
+                    "closed_captions": 0,
+                    "has_b_frames": 0,
+                    "sample_aspect_ratio": "1:1",
+                    "display_aspect_ratio": "16:9",
+                    "pix_fmt": "yuv420p",
+                    "level": 13,
+                    "color_range": "tv",
+                    "color_space": "bt709",
+                    "color_transfer": "bt709",
+                    "color_primaries": "bt709",
+                    "refs": 1,
+                    "r_frame_rate": "60/1",
+                    "avg_frame_rate": "60/1",
+                    "time_base": "1/15360",
+                    "start_pts": 0,
+                    "start_time": "0.000000",
+                    "duration_ts": 12529664,
+                    "duration": "815.733333",
+                    "bit_rate": "4765950",
+                    "nb_frames": "48944",
+                    "disposition": {
+                        "default": 1,
+                        "dub": 0,
+                        "original": 0,
+                        "comment": 0,
+                        "lyrics": 0,
+                        "karaoke": 0,
+                        "forced": 0,
+                        "hearing_impaired": 0,
+                        "visual_impaired": 0,
+                        "clean_effects": 0,
+                        "attached_pic": 0,
+                        "timed_thumbnails": 0
+                    },
+                    "tags": {
+                        "language": "und",
+                        "handler_name": "ISO Media file produced by Google Inc.",
+                        "vendor_id": "[0][0][0][0]"
+                    }
+                },
+                {
+                    "index": 1,
+                    "codec_name": "opus",
+                    "codec_long_name": "Opus (Opus Interactive Audio Codec)",
+                    "codec_type": "audio",
+                    "codec_tag_string": "Opus",
+                    "codec_tag": "0x7375704f",
+                    "sample_fmt": "fltp",
+                    "sample_rate": "48000",
+                    "channels": 2,
+                    "channel_layout": "stereo",
+                    "bits_per_sample": 0,
+                    "r_frame_rate": "0/0",
+                    "avg_frame_rate": "0/0",
+                    "time_base": "1/48000",
+                    "start_pts": 0,
+                    "start_time": "0.000000",
+                    "duration_ts": 39156528,
+                    "duration": "815.761000",
+                    "bit_rate": "135149",
+                    "nb_frames": "40788",
+                    "disposition": {
+                        "default": 1,
+                        "dub": 0,
+                        "original": 0,
+                        "comment": 0,
+                        "lyrics": 0,
+                        "karaoke": 0,
+                        "forced": 0,
+                        "hearing_impaired": 0,
+                        "visual_impaired": 0,
+                        "clean_effects": 0,
+                        "attached_pic": 0,
+                        "timed_thumbnails": 0
+                    },
+                    "tags": {
+                        "language": "eng",
+                        "handler_name": "SoundHandler",
+                        "vendor_id": "[0][0][0][0]"
+                    }
+                }
+            ],
+            "format": {
+                "filename": "data/downloads/-DzzCA1mGow.mp4",
+                "nb_streams": 2,
+                "nb_programs": 0,
+                "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+                "format_long_name": "QuickTime / MOV",
+                "start_time": "0.000000",
+                "duration": "815.761000",
+                "size": "500633711",
+                "bit_rate": "4909611",
+                "probe_score": 100,
+                "tags": {
+                    "major_brand": "isom",
+                    "minor_version": "512",
+                    "compatible_brands": "isomav01iso2mp41",
+                    "encoder": "Lavf58.76.100"
+                }
+            }
+        },
+        "other_info": {
+            "video_views": 99161,
+            "channel_name": "FaceDev",
+            "video_title": "I made my own Search Engine",
+            "avg_rating": null
+        }
+    },
+    "YHU7hFFf8BY": {
+        "length": "medium (6:31)",
+        "popularity": "Low (6.1k)",
+        "channel_size": "Large (4.04M - TraxNYC Diamond Jewelry)",
+        "channel_echelon" : "large",
+        "url": "https://www.youtube.com/watch?v=YHU7hFFf8BY",
+        "metadata": {
+            "streams": [
+                {
+                    "index": 0,
+                    "codec_name": "av1",
+                    "codec_long_name": "Alliance for Open Media AV1",
+                    "profile": "Main",
+                    "codec_type": "video",
+                    "codec_tag_string": "av01",
+                    "codec_tag": "0x31307661",
+                    "width": 3840,
+                    "height": 2160,
+                    "coded_width": 3840,
+                    "coded_height": 2160,
+                    "closed_captions": 0,
+                    "has_b_frames": 0,
+                    "sample_aspect_ratio": "1:1",
+                    "display_aspect_ratio": "16:9",
+                    "pix_fmt": "yuv420p",
+                    "level": 12,
+                    "color_range": "tv",
+                    "color_space": "bt709",
+                    "color_transfer": "bt709",
+                    "color_primaries": "bt709",
+                    "refs": 1,
+                    "r_frame_rate": "24000/1001",
+                    "avg_frame_rate": "24000/1001",
+                    "time_base": "1/24000",
+                    "start_pts": 0,
+                    "start_time": "0.000000",
+                    "duration_ts": 9390381,
+                    "duration": "391.265875",
+                    "bit_rate": "2758658",
+                    "nb_frames": "9381",
+                    "disposition": {
+                        "default": 1,
+                        "dub": 0,
+                        "original": 0,
+                        "comment": 0,
+                        "lyrics": 0,
+                        "karaoke": 0,
+                        "forced": 0,
+                        "hearing_impaired": 0,
+                        "visual_impaired": 0,
+                        "clean_effects": 0,
+                        "attached_pic": 0,
+                        "timed_thumbnails": 0
+                    },
+                    "tags": {
+                        "language": "und",
+                        "handler_name": "ISO Media file produced by Google Inc.",
+                        "vendor_id": "[0][0][0][0]"
+                    }
+                },
+                {
+                    "index": 1,
+                    "codec_name": "opus",
+                    "codec_long_name": "Opus (Opus Interactive Audio Codec)",
+                    "codec_type": "audio",
+                    "codec_tag_string": "Opus",
+                    "codec_tag": "0x7375704f",
+                    "sample_fmt": "fltp",
+                    "sample_rate": "48000",
+                    "channels": 2,
+                    "channel_layout": "stereo",
+                    "bits_per_sample": 0,
+                    "r_frame_rate": "0/0",
+                    "avg_frame_rate": "0/0",
+                    "time_base": "1/48000",
+                    "start_pts": 0,
+                    "start_time": "0.000000",
+                    "duration_ts": 18781488,
+                    "duration": "391.281000",
+                    "bit_rate": "136048",
+                    "nb_frames": "19564",
+                    "disposition": {
+                        "default": 1,
+                        "dub": 0,
+                        "original": 0,
+                        "comment": 0,
+                        "lyrics": 0,
+                        "karaoke": 0,
+                        "forced": 0,
+                        "hearing_impaired": 0,
+                        "visual_impaired": 0,
+                        "clean_effects": 0,
+                        "attached_pic": 0,
+                        "timed_thumbnails": 0
+                    },
+                    "tags": {
+                        "language": "eng",
+                        "handler_name": "SoundHandler",
+                        "vendor_id": "[0][0][0][0]"
+                    }
+                }
+            ],
+            "format": {
+                "filename": "data/downloads/YHU7hFFf8BY.mp4",
+                "nb_streams": 2,
+                "nb_programs": 0,
+                "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+                "format_long_name": "QuickTime / MOV",
+                "start_time": "0.000000",
+                "duration": "391.281000",
+                "size": "141787082",
+                "bit_rate": "2898931",
+                "probe_score": 100,
+                "tags": {
+                    "major_brand": "isom",
+                    "minor_version": "512",
+                    "compatible_brands": "isomav01iso2mp41",
+                    "encoder": "Lavf58.76.100"
+                }
+            }
+        },
+        "other_info": {
+            "video_views": 6808,
+            "channel_name": "TraxNYC Diamond Jewelry",
+            "video_title": "How to Mold Your Teeth for Custom Grillz",
+            "avg_rating": null
+        }
+    },
+    "IUotijOrmtY": {
+        "length": "Medium (8:25)",
+        "popularity": "Low (119)",
+        "channel_size": "Medium (86.8K - We need to talk)",
+        "channel_echelon" : "medium",
+        "url": "https://www.youtube.com/watch?v=IUotijOrmtY",
+        "metadata": {
+            "streams": [
+                {
+                    "index": 0,
+                    "codec_name": "vp9",
+                    "codec_long_name": "Google VP9",
+                    "profile": "Profile 0",
+                    "codec_type": "video",
+                    "codec_tag_string": "vp09",
+                    "codec_tag": "0x39307076",
+                    "width": 1920,
+                    "height": 1080,
+                    "coded_width": 1920,
+                    "coded_height": 1080,
+                    "closed_captions": 0,
+                    "has_b_frames": 0,
+                    "sample_aspect_ratio": "1:1",
+                    "display_aspect_ratio": "16:9",
+                    "pix_fmt": "yuv420p",
+                    "level": -99,
+                    "color_range": "tv",
+                    "color_space": "bt709",
+                    "color_transfer": "bt709",
+                    "color_primaries": "bt709",
+                    "refs": 1,
+                    "r_frame_rate": "30000/1001",
+                    "avg_frame_rate": "3027600/101021",
+                    "time_base": "1/16000",
+                    "start_pts": 0,
+                    "start_time": "0.000000",
+                    "duration_ts": 8081680,
+                    "duration": "505.105000",
+                    "bit_rate": "755521",
+                    "nb_frames": "15138",
+                    "disposition": {
+                        "default": 1,
+                        "dub": 0,
+                        "original": 0,
+                        "comment": 0,
+                        "lyrics": 0,
+                        "karaoke": 0,
+                        "forced": 0,
+                        "hearing_impaired": 0,
+                        "visual_impaired": 0,
+                        "clean_effects": 0,
+                        "attached_pic": 0,
+                        "timed_thumbnails": 0
+                    },
+                    "tags": {
+                        "language": "eng",
+                        "handler_name": "VideoHandler",
+                        "vendor_id": "[0][0][0][0]"
+                    }
+                },
+                {
+                    "index": 1,
+                    "codec_name": "opus",
+                    "codec_long_name": "Opus (Opus Interactive Audio Codec)",
+                    "codec_type": "audio",
+                    "codec_tag_string": "Opus",
+                    "codec_tag": "0x7375704f",
+                    "sample_fmt": "fltp",
+                    "sample_rate": "48000",
+                    "channels": 2,
+                    "channel_layout": "stereo",
+                    "bits_per_sample": 0,
+                    "r_frame_rate": "0/0",
+                    "avg_frame_rate": "0/0",
+                    "time_base": "1/48000",
+                    "start_pts": 0,
+                    "start_time": "0.000000",
+                    "duration_ts": 24245808,
+                    "duration": "505.121000",
+                    "bit_rate": "104691",
+                    "nb_frames": "25256",
+                    "disposition": {
+                        "default": 1,
+                        "dub": 0,
+                        "original": 0,
+                        "comment": 0,
+                        "lyrics": 0,
+                        "karaoke": 0,
+                        "forced": 0,
+                        "hearing_impaired": 0,
+                        "visual_impaired": 0,
+                        "clean_effects": 0,
+                        "attached_pic": 0,
+                        "timed_thumbnails": 0
+                    },
+                    "tags": {
+                        "language": "eng",
+                        "handler_name": "SoundHandler",
+                        "vendor_id": "[0][0][0][0]"
+                    }
+                }
+            ],
+            "format": {
+                "filename": "data/downloads/IUotijOrmtY.mp4",
+                "nb_streams": 2,
+                "nb_programs": 0,
+                "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+                "format_long_name": "QuickTime / MOV",
+                "start_time": "0.000000",
+                "duration": "505.121000",
+                "size": "54806176",
+                "bit_rate": "868008",
+                "probe_score": 100,
+                "tags": {
+                    "major_brand": "isom",
+                    "minor_version": "512",
+                    "compatible_brands": "isomiso2mp41",
+                    "encoder": "Lavf58.76.100"
+                }
+            }
+        },
+        "other_info": {
+            "video_views": 121,
+            "channel_name": "We Need To Talk",
+            "video_title": "2024 Female Athletes as TAYLOR SWIFT ALBUMS: Breanna Stewart, TORTURED POETS DEPARTMENT | WNTT NOW",
+            "avg_rating": null
+        }
+    },
     "S5xW3eigjew": {
         "length": "Short (1:04)",
         "popularity": "High (309K)",
         "channel_size": "Small (94 - Ramon Alcantara)",
+        "channel_echelon" : "small",
         "url": "https://www.youtube.com/watch?v=S5xW3eigjew",
         "metadata": {
             "streams": [
@@ -120,7 +1784,7 @@
             }
         },
         "other_info": {
-            "video_views": 310577,
+            "video_views": 311284,
             "channel_name": "Ramon Alcantara",
             "video_title": "One Piece Epic Sad Moment   Franky VS Senor Pink's Respectful Ending",
             "avg_rating": null
@@ -130,6 +1794,7 @@
         "length": "Short (2:59)",
         "popularity": "High (146k)",
         "channel_size": "Large (116K - Lisa Remillard)",
+        "channel_echelon" : "large",
         "url": "https://www.youtube.com/watch?v=0e4I7sQXxsQ",
         "metadata": {
             "streams": [
@@ -179,7 +1844,7 @@
                     },
                     "tags": {
                         "language": "und",
-                        "handler_name": "ISO Media file produced by Google Inc. Created on: 05/01/2025.",
+                        "handler_name": "ISO Media file produced by Google Inc. Created on: 05/04/2025.",
                         "vendor_id": "[0][0][0][0]"
                     }
                 },
@@ -245,7 +1910,7 @@
             }
         },
         "other_info": {
-            "video_views": 146857,
+            "video_views": 146858,
             "channel_name": "Lisa Remillard",
             "video_title": "How did Trump already \"win\" the Nevada primary before Election Day tomorrow?",
             "avg_rating": null
@@ -255,6 +1920,7 @@
         "length": "Short (4:48)",
         "popularity": "High (4.4M)",
         "channel_size": "Medium (17.3K - Aaron)",
+        "channel_echelon" : "medium",
         "url": "https://www.youtube.com/watch?v=7_LPdttKXPc",
         "metadata": {
             "streams": [
@@ -372,7 +2038,7 @@
             }
         },
         "other_info": {
-            "video_views": 4482391,
+            "video_views": 4483486,
             "channel_name": "Aaron",
             "video_title": "How the Internet Works in 5 Minutes",
             "avg_rating": null
@@ -382,6 +2048,7 @@
         "length": "short (1:27)",
         "popularity": "Medium (34k)",
         "channel_size": "Medium (84.2k - RAPGAME)",
+        "channel_echelon" : "medium",
         "url": "https://www.youtube.com/watch?v=uvYCVjhuot8",
         "metadata": {
             "streams": [
@@ -499,7 +2166,7 @@
             }
         },
         "other_info": {
-            "video_views": 34459,
+            "video_views": 34469,
             "channel_name": "RAPGAME",
             "video_title": "Rappers & Basketball Legends React to Kendrick's Super Bowl",
             "avg_rating": null
@@ -509,6 +2176,7 @@
         "length": "Short (3:55)",
         "popularity": "Low (1.8K)",
         "channel_size": "Medium (17.3K - Aaron)",
+        "channel_echelon" : "medium",
         "url": "https://www.youtube.com/watch?v=OIHmV6Ai9eE",
         "metadata": {
             "streams": [
@@ -630,7 +2298,7 @@
             }
         },
         "other_info": {
-            "video_views": 1829,
+            "video_views": 1832,
             "channel_name": "Aaron",
             "video_title": "Episode 1: Prepare for Disruptions, not Disasters",
             "avg_rating": null
@@ -640,6 +2308,7 @@
         "length": "short (3:57)",
         "popularity": "Low (419)",
         "channel_size": "Medium - (11.4k - Matt Nye)",
+        "channel_echelon" : "medium",
         "url": "https://www.youtube.com/watch?v=AsZeXwbSNLI",
         "metadata": {
             "streams": [
@@ -757,7 +2426,7 @@
             }
         },
         "other_info": {
-            "video_views": 448,
+            "video_views": 458,
             "channel_name": "Matt Nye",
             "video_title": "Matt Nye - Get Up And Get To It (Feat.Randy Mcphly)",
             "avg_rating": null
@@ -767,6 +2436,7 @@
         "length": "short (4:46)",
         "popularity": "Low (626)",
         "channel_size": "Small (398 - Looking for one piece)",
+        "channel_echelon" : "small",
         "url": "https://www.youtube.com/watch?v=DPn2-ce8wP0",
         "metadata": {
             "streams": [
@@ -884,7 +2554,7 @@
             }
         },
         "other_info": {
-            "video_views": 1903,
+            "video_views": 1906,
             "channel_name": "Looking for one piece",
             "video_title": "One Piece Episode 2",
             "avg_rating": null
@@ -894,6 +2564,7 @@
         "length": "Short (0:56)",
         "popularity": "Low (875)",
         "channel_size": "Large - (117K - UNITED States Air Force)",
+        "channel_echelon" : "large",
         "url": "https://www.youtube.com/watch?v=Pfh9l0guTqQ",
         "metadata": {
             "streams": [
@@ -1011,7 +2682,7 @@
             }
         },
         "other_info": {
-            "video_views": 878,
+            "video_views": 879,
             "channel_name": "United States Air Force",
             "video_title": "Veterans Day 2024",
             "avg_rating": null

@@ -1,5 +1,83 @@
 [
   {
+    "length": "Long (25 min)",
+    "popularity": "High (785M)",
+    "channel_size": "Large (Mr Beast - 388M)",
+    "url": "https://www.youtube.com/watch?v=0e3GPea1Tyg"
+  },
+  {
+    "length": "Long (16:18)",
+    "popularity": "Medium (38K)",
+    "channel_size": "Large (333K - Zisteau)",
+    "url": "https://www.youtube.com/watch?v=FygHd591g5g"
+  },
+  {
+    "length": "Long (3:44:01)",
+    "popularity": "Medium (39k)",
+    "channel_size": "Medium (57.3k - CottonVelvet)",
+    "url": "https://www.youtube.com/watch?v=AepZzZS6j_U"
+  },
+  {
+    "length": "Long (39 min)",
+    "popularity": "Low (1.4k)",
+    "channel_size": "Large (170K - Hawlo)",
+    "url": "https://www.youtube.com/watch?v=9So3Xj26OC8"
+  },
+  {
+    "length": "long (27:03)",
+    "popularity": "Low (25K)",
+    "channel_size": "Small (8k - Pokemon Explainers)",
+    "url": "https://www.youtube.com/watch?v=RDROZ4dppkk"
+  },
+  {
+    "length": "Long (7:07:51)",
+    "popularity": "Low (216)",
+    "channel_size": "Small (1.98k - ZOD)",
+    "url": "https://www.youtube.com/watch?v=B8Bcpmxdtwk"
+  },
+  {
+    "length": "Medium (6:56)",
+    "popularity": "High (196k)",
+    "channel_size": "Large (116K - Lisa Remillard)",
+    "url": "https://www.youtube.com/watch?v=yCCVz2nehYM"
+  },
+  {
+    "length": "Medium (10:34)",
+    "popularity": "High (964K)",
+    "channel_size": "Large (328K - Yeet Smash)",
+    "url": "https://www.youtube.com/watch?v=yoEyfEjX9Fo"
+  },
+  {
+    "length": "Medium (10:14)",
+    "popularity": "Large (329k)",
+    "channel_size": "Medium (56.8K - InsideEVs)",
+    "url": "https://www.youtube.com/watch?v=cq1qEjwSYkw"
+  },
+  {
+    "length": "Medium (6:58)",
+    "popularity": "Medium (77k)",
+    "channel_size": "Large (347k - grayfruit)",
+    "url": "https://www.youtube.com/watch?v=wRxiF8bKX04"
+  },
+  {
+    "length": "Medium (13:36)",
+    "popularity": "Medium (84K)",
+    "channel_size": "Medium (67.8K - FaceDev)",
+    "url": "https://www.youtube.com/watch?v=-DzzCA1mGow"
+  },
+  {
+    "length": "medium (6:31)",
+    "popularity": "Low (6.1k)",
+    "channel_size": "Large (4.04M - TraxNYC Diamond Jewelry)",
+    "url": "https://www.youtube.com/watch?v=YHU7hFFf8BY"
+  },
+  {
+    "length": "Medium (8:25)",
+    "popularity": "Low (119)",
+    "channel_size": "Medium (86.8K - We need to talk)",
+    "url": "https://www.youtube.com/watch?v=IUotijOrmtY"
+  },
+  {
     "length": "Short (1:04)",
     "popularity": "High (309K)",
     "channel_size": "Small (94 - Ramon Alcantara)",
@@ -48,4 +126,3 @@
     "url": "https://www.youtube.com/watch?v=Pfh9l0guTqQ"
   }
 ]
-  
